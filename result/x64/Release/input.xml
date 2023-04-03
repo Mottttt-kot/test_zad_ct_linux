@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MyData>
+
+	<VAR var_type="KBA1">
+		<Value>100</Value>
+	</VAR>
+	<VAR var_type="KBA2">
+		<Value>200</Value>
+	</VAR>
+	<VAR var_type="KBA3">
+		<Value>100</Value>
+	</VAR>
+	<VAR var_type="KBA4">
+		<Value>300</Value>
+	</VAR>
+	<VAR var_type="UST_overload">
+		<Value>132</Value>
+	</VAR>
+	<VAR var_type="UST_underloading">
+		<Value>114</Value>
+	</VAR>
+	<VAR var_type="UST">
+		<Value>18</Value>
+	</VAR>
+	<VAR var_type="RAB">
+		<Value>2</Value>
+	</VAR>
+</MyData>

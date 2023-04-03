@@ -1,0 +1,4 @@
+﻿  CT_test.cpp
+  twomodule.cpp
+  Создание кода...
+G:\Vs Code\CT_test\CT_test.cpp(49): error C4716: algor: должна возвращать значение
